@@ -9,3 +9,8 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="dedication"]{
+	font-style: italic;
+	text-align: center;
+}
