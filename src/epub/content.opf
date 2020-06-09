@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-e-smith/triplanetary</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-06-09T20:59:22Z</dc:date>
+		<meta property="dcterms:modified">2020-06-09T20:59:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,19 +39,19 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008105650</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Lensman Series</meta>
+		<meta id="collection-1" property="belongs-to-collection">Lensman</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Hundreds of millions of years ago, two near omnipotent alien races encountered each other, beginning a conflict that shapes the history of the entire universe. The benevolent Arisians covertly influence humanity, hoping to create a people capable of one day defeating the vile Eddorians, who are waging their own campaign for the fate of civilization on Earth. This sets the stage for a clash between the Triplanetary League of the inner solar system, the enigmatic pirate-scientist Roger, and the Nevians, interlopers whose first appearance wreaks havoc among the other parties.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Triplanetary&lt;/i&gt; is the first of Edward E. “Doc” Smith’s &lt;a href="https://standardebooks.org/collections/lensman"&gt;Lensman&lt;/a&gt; series, an early and influential entry in the space opera genre. Originally serialized in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1934 as a stand-alone story, &lt;i&gt;Triplanetary&lt;/i&gt; was collected in book form in 1948 with six new chapters and numerous additions to the rest of the story, changing the story to be a prequel to the rest of the Lensman series.&lt;/p&gt;
+			&lt;p&gt;Hundreds of millions of years ago, two near-omnipotent alien races encountered each other, beginning a conflict that will shape the history of the entire universe. The benevolent Arisians covertly influence humanity, hoping to create a people capable of one day defeating the vile Eddorians, who are waging their own campaign for the fate of civilization on Earth. This sets the stage for a clash between the Triplanetary League of the inner solar system, the enigmatic pirate-scientist Roger, and the Nevians, interlopers whose first appearance wreaks havoc among the other parties.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Triplanetary&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/e-e-smith"&gt;Edward E. “Doc” Smith’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/lensman"&gt;Lensman&lt;/a&gt; series, an early and influential entry in the space opera genre. Originally serialized in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1934 as a stand-alone story, &lt;i&gt;Triplanetary&lt;/i&gt; was collected in book form in 1948 with six new chapters and numerous additions, changing the story to be a prequel to the rest of the Lensman series.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32706</dc:source>
 		<dc:source>https://archive.org/details/Triplanetary_907</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">93348</meta>
+		<meta property="se:reading-ease.flesch">63.09</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Triplanetary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-e-smith_triplanetary</meta>
 		<dc:creator id="author">E. E. Smith</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
