@@ -52,7 +52,7 @@
 		<dc:source>https://archive.org/details/Triplanetary_907</dc:source>
 		<meta property="se:word-count">93348</meta>
 		<meta property="se:reading-ease.flesch">63.09</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Triplanetary</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Triplanetary_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-e-smith_triplanetary</meta>
 		<dc:creator id="author">E. E. Smith</dc:creator>
 		<meta property="file-as" refines="#author">Smith, Edward Elmer</meta>
