@@ -12,4 +12,10 @@
 			<reason>Abbreviation is a modern code without periods.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-18.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Matched text is a complete clause.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
