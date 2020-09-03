@@ -5,11 +5,6 @@ abbr.acronym{
 	font-variant: all-small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 /* All dedications */
 section[epub|type~="dedication"] > *{
 	display: inline-block;
