@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-5.xhtml">
-		<ignore>
-			<code>s-045</code>
+		<ignore code="s-045">
 			<reason>Abbreviation is a modern code without periods.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-16.xhtml">
-		<ignore>
-			<code>s-045</code>
+		<ignore code="s-045">
 			<reason>Abbreviation is a modern code without periods.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-18.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Matched text is a complete clause.</reason>
 		</ignore>
 	</file>
