@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/e-e-smith/triplanetary</dc:identifier>
 		<dc:date>2020-06-09T20:59:22Z</dc:date>
@@ -43,11 +43,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Lensman</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>In a universe where all powerful alien races influence the fates of worlds, a war erupts between the Triplanetary League of the inner solar system, pirates led by a mysterious and malicious scientist, and technologically advanced aliens.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Hundreds of millions of years ago, two near-omnipotent alien races encountered each other, beginning a conflict that will shape the history of the entire universe. The benevolent Arisians covertly influence humanity, hoping to create a people capable of one day defeating the vile Eddorians, who are waging their own campaign for the fate of civilization on Earth. This sets the stage for a clash between the Triplanetary League of the inner solar system, the enigmatic pirate-scientist Roger, and the Nevians, interlopers whose first appearance wreaks havoc among the other parties.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Triplanetary&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/ebooks/e-e-smith"&gt;Edward E. “Doc” Smith’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/lensman"&gt;Lensman&lt;/a&gt; series, an early and influential entry in the space opera genre. Originally serialized in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1934 as a stand-alone story, &lt;i&gt;Triplanetary&lt;/i&gt; was collected in book form in 1948 with six new chapters and numerous additions, changing the story to be a prequel to the rest of the Lensman series.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32706</dc:source>
 		<dc:source>https://archive.org/details/Triplanetary_907</dc:source>
